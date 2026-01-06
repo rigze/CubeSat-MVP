@@ -1,0 +1,308 @@
+2026-01-01 01:42:29 | GROUND | SENT | {'command': 'PING'}
+2026-01-01 01:42:29 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 01:42:29 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 01:42:29 | GROUND | RECEIVED | {'reply': 'PONG'}
+2026-01-01 01:42:29 | GROUND | SENT | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:42:29 | CUBESAT | RECEIVED | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:42:29 | CUBESAT | RESPONSE | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:42:29 | GROUND | RECEIVED | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:42:29 | GROUND | SENT | {'command': 'REBOOT'}
+2026-01-01 01:42:29 | CUBESAT | RECEIVED | {'command': 'REBOOT'}
+2026-01-01 01:42:29 | CUBESAT | RESPONSE | {'status': 'REBOOTING'}
+2026-01-01 01:42:29 | GROUND | RECEIVED | {'status': 'REBOOTING'}
+2026-01-01 01:49:12 | GROUND | SENT | {'command': 'PING'}
+2026-01-01 01:49:12 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 01:49:12 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 01:49:12 | GROUND | RECEIVED | {'reply': 'PONG'}
+2026-01-01 01:49:12 | GROUND | SENT | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:49:12 | CUBESAT | RECEIVED | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:49:12 | CUBESAT | RESPONSE | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:49:12 | GROUND | RECEIVED | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:49:12 | GROUND | SENT | {'command': 'REBOOT'}
+2026-01-01 01:49:12 | CUBESAT | RECEIVED | {'command': 'REBOOT'}
+2026-01-01 01:49:12 | CUBESAT | RESPONSE | {'status': 'REBOOTING'}
+2026-01-01 01:49:12 | GROUND | RECEIVED | {'status': 'REBOOTING'}
+2026-01-01 01:49:38 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 01:49:38 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 01:54:05 | GROUND | SENT | {'command': 'PING'}
+2026-01-01 01:54:05 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 01:54:05 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 01:54:05 | GROUND | RECEIVED | {'reply': 'PONG'}
+2026-01-01 01:54:05 | GROUND | SENT | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:54:05 | CUBESAT | RECEIVED | {'command': 'GET_TELEMETRY'}
+2026-01-01 01:54:05 | CUBESAT | RESPONSE | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:54:05 | GROUND | RECEIVED | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 01:54:05 | GROUND | SENT | {'command': 'REBOOT'}
+2026-01-01 01:54:05 | CUBESAT | RECEIVED | {'command': 'REBOOT'}
+2026-01-01 01:54:05 | CUBESAT | RESPONSE | {'status': 'REBOOTING'}
+2026-01-01 01:54:05 | GROUND | RECEIVED | {'status': 'REBOOTING'}
+2026-01-01 01:54:28 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 01:54:28 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 02:02:54 | GROUND | SENT | {'command': 'PING'}
+2026-01-01 02:02:54 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 02:02:54 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 02:02:54 | GROUND | RECEIVED | {'reply': 'PONG'}
+2026-01-01 02:02:54 | GROUND | SENT | {'command': 'GET_TELEMETRY'}
+2026-01-01 02:02:54 | CUBESAT | RECEIVED | {'command': 'GET_TELEMETRY'}
+2026-01-01 02:02:54 | CUBESAT | RESPONSE | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 02:02:54 | GROUND | RECEIVED | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 02:02:54 | GROUND | SENT | {'command': 'REBOOT'}
+2026-01-01 02:02:54 | CUBESAT | RECEIVED | {'command': 'REBOOT'}
+2026-01-01 02:02:54 | CUBESAT | RESPONSE | {'status': 'REBOOTING'}
+2026-01-01 02:02:54 | GROUND | RECEIVED | {'status': 'REBOOTING'}
+2026-01-01 02:04:04 | ATTACKER | REPLAYED | {'command': 'PING'}
+2026-01-01 02:04:04 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 02:04:04 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 02:20:23 | GROUND | SENT | {'command': 'PING', 'seq': 1}
+2026-01-01 02:20:23 | CUBESAT | RECEIVED | {'command': 'PING', 'seq': 1}
+2026-01-01 02:20:23 | CUBESAT | RESPONSE | {'reply': 'PONG'}
+2026-01-01 02:20:23 | GROUND | RECEIVED | {'reply': 'PONG'}
+2026-01-01 02:20:23 | GROUND | SENT | {'command': 'GET_TELEMETRY', 'seq': 2}
+2026-01-01 02:20:23 | CUBESAT | RECEIVED | {'command': 'GET_TELEMETRY', 'seq': 2}
+2026-01-01 02:20:23 | CUBESAT | RESPONSE | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 02:20:23 | GROUND | RECEIVED | {'battery': 92, 'temperature': 24, 'status': 'NOMINAL'}
+2026-01-01 02:20:23 | GROUND | SENT | {'command': 'REBOOT', 'seq': 3}
+2026-01-01 02:20:23 | CUBESAT | RECEIVED | {'command': 'REBOOT', 'seq': 3}
+2026-01-01 02:20:23 | CUBESAT | RESPONSE | {'status': 'REBOOTING'}
+2026-01-01 02:20:23 | GROUND | RECEIVED | {'status': 'REBOOTING'}
+2026-01-01 02:21:24 | ATTACKER | REPLAYED | {'command': 'PING'}
+2026-01-01 02:21:24 | CUBESAT | RECEIVED | {'command': 'PING'}
+2026-01-01 02:21:24 | CUBESAT | REJECTED | {'command': 'PING'}
+2026-01-01 02:21:24 | CUBESAT | RESPONSE | {'error': 'REPLAY_DETECTED'}
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 1, "iv": "+n/HOq9xwZMg7d1YDx1SFg==", "data": "SFPmse3aJ7dJUctVSpi2YwC2ZJSvWz6g5ZBlUeV/q8w="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 1, "iv": "+n/HOq9xwZMg7d1YDx1SFg==", "data": "SFPmse3aJ7dJUctVSpi2YwC2ZJSvWz6g5ZBlUeV/q8w="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "PING"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"reply": "PONG"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"reply": "PONG"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 2, "iv": "gnVL6CqfrniNlmh70/sz5g==", "data": "4MguTZeZxQdxCYueDU5ADJtqFyOOa1mISn9xMrLXw14="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 2, "iv": "gnVL6CqfrniNlmh70/sz5g==", "data": "4MguTZeZxQdxCYueDU5ADJtqFyOOa1mISn9xMrLXw14="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "GET_TELEMETRY"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"battery": 92, "temperature": 24, "status": "NOMINAL"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"battery": 92, "temperature": 24, "status": "NOMINAL"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 3, "iv": "E9/zP/TvclJmwHanIYdhFg==", "data": "4n4mS45fIq/LgJZtBV5z/zRa0wJ/Wohr26ftMViUrK4="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 3, "iv": "E9/zP/TvclJmwHanIYdhFg==", "data": "4n4mS45fIq/LgJZtBV5z/zRa0wJ/Wohr26ftMViUrK4="}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "REBOOT"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"status": "REBOOTING"}
+--------------------------------------------------
+
+[2026-01-02 05:51:46]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"status": "REBOOTING"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 1, "iv": "IjEhEImzwIDbMA2SE5T/DQ==", "data": "0gIhyQE6lQmNkuGPVpUlRyjHYyyp+q/33zMvjvMxjEc="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 1, "iv": "IjEhEImzwIDbMA2SE5T/DQ==", "data": "0gIhyQE6lQmNkuGPVpUlRyjHYyyp+q/33zMvjvMxjEc="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "PING"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"reply": "PONG"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"reply": "PONG"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 2, "iv": "DnvuIMhdAKQNLt190Kujxw==", "data": "d9e8ixufXWSxbuRr4cVWGocnsGxr0ENDJTGD5yomHQ8="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 2, "iv": "DnvuIMhdAKQNLt190Kujxw==", "data": "d9e8ixufXWSxbuRr4cVWGocnsGxr0ENDJTGD5yomHQ8="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "GET_TELEMETRY"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"battery": 92, "temperature": 24, "status": "NOMINAL"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"battery": 92, "temperature": 24, "status": "NOMINAL"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : ENCRYPTED_SEND
+Details   : {"seq": 3, "iv": "p7RC+FB35b/3SP542qP07w==", "data": "Ig24f4oWPF1M+hr0nCmPVUIhpp5qkKzAA1RjtgJS44k="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"seq": 3, "iv": "p7RC+FB35b/3SP542qP07w==", "data": "Ig24f4oWPF1M+hr0nCmPVUIhpp5qkKzAA1RjtgJS44k="}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : DECRYPTED
+Details   : {"command": "REBOOT"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"status": "REBOOTING"}
+--------------------------------------------------
+
+[2026-01-02 06:00:26]
+Level     : INFO
+Component : GROUND
+Event     : RECEIVED
+Details   : {"status": "REBOOTING"}
+--------------------------------------------------s
+[2026-01-02 06:06:37]
+Level     : INFO
+Component : ATTACKER
+Event     : REPLAYED
+Details   : {"command": "PING"}
+--------------------------------------------------
+
+[2026-01-02 06:06:37]
+Level     : INFO
+Component : CUBESAT
+Event     : RECEIVED_PACKET
+Details   : {"command": "PING"}
+--------------------------------------------------
+
+[2026-01-02 06:06:37]
+Level     : INFO
+Component : CUBESAT
+Event     : REJECTED_REPLAY
+Details   : {"command": "PING"}
+--------------------------------------------------
+
+[2026-01-02 06:06:37]
+Level     : INFO
+Component : CUBESAT
+Event     : RESPONSE
+Details   : {"error": "REPLAY_DETECTED"}
+--------------------------------------------------
